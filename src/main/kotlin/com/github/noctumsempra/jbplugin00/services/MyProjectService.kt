@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.noctumsempra.jbplugin00.services
 
+import com.github.noctumsempra.jbplugin00.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

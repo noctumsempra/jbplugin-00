@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.noctumsempra.jbplugin00.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.noctumsempra.jbplugin00.MyBundle
 
 class MyApplicationService {
 
